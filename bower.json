@@ -1,0 +1,17 @@
+{
+  "name": "verynya",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Verynya <verynya-tag@rambler.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Verynya/git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
